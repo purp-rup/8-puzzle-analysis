@@ -2,7 +2,7 @@
 
 ## To Run
 
-1. Run the following commands, using the absolute path to libs/puzzle.jar in your project directory as "-Dfile"
+1. Run the following commands, using the absolute path to libs/puzzle.jar in your project directory for "-Dfile"
 ```console
 mvn install:install-file "-Dfile=.../project/libs/puzzle.jar" "-DgroupId=edu.stockton" "-DartifactId=puzzle" "-Dversion=1.0" "-Dpackaging=jar"   
 ```
