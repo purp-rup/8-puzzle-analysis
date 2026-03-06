@@ -1,3 +1,4 @@
+// Copyright (C) 2026 Andrew Miraglia, Alexander DeSilvio
 package edu.stockton;
 
 import csis4463.*;

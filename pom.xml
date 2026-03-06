@@ -5,14 +5,40 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.stockton</groupId>
-    <artifactId>homework4</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>8puzzle-analysis</artifactId>
+    <version>1.0.0</version>
+
+    <name>8-Puzzle Search Algorithm Analysis</name>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <licenses>
+        <license>
+            <name>GPL-3.0-or-later</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+            <distribution>repo</distribution>
+            <comments>
+                Copyright (C) 2026 Andrew Miraglia, Alexander DeSilvio.
+
+                This program is free software: you can redistribute it and/or modify
+                it under the terms of the GNU General Public License as published by
+                the Free Software Foundation, either version 3 of the License, or
+                (at your option) any later version.
+
+                This program is distributed in the hope that it will be useful,
+                but WITHOUT ANY WARRANTY; without even the implied warranty of
+                MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+                GNU General Public License for more details.
+
+                You should have received a copy of the GNU General Public License
+                along with this program.  If not, see https://www.gnu.org/licenses/.
+            </comments>
+        </license>
+    </licenses>
 
     <dependencies>
         <dependency>
