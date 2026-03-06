@@ -12,5 +12,5 @@ mvn clean package
 
 2. Then, run with:
 ```console
-java -jar target/homework4-1.0-SNAPSHOT.jar
+java -jar target/8puzzle-analysis-1.0.0.jar
 ```
